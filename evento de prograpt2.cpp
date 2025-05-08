@@ -44,7 +44,7 @@ int main() {
         cout << "5. Autocorrector cambia mensaje\n";
         cout << "6. Encontrar dinero\n";
         cout << "0. Salir\n";
-        cout << "Selecciona una situación (0-6): ";
+        cout << "Selecciona una situación (3-4): ";
         cin >> seleccion;
 
         switch (seleccion) {
